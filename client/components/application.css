@@ -35,6 +35,15 @@ nav {
 
 }
 
+#publish {
+    border: solid brown;
+
+}
+
+#newNews {
+    border: solid green;
+}
+
 img {
     height: 500px;
     display: block;
@@ -54,3 +63,4 @@ footer {
     width: 100%;
     height: 50px;
 }
+
